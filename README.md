@@ -35,13 +35,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file in the root directory of the project and add your Instagram credentials:
-
-```env
-INSTAGRAM_USERNAME=your_username
-INSTAGRAM_PASSWORD=your_password
-```
-
 ## Usage
 
 1. Run the program:
