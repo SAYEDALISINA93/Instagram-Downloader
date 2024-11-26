@@ -40,7 +40,7 @@ pip install -r requirements.txt
 1. Run the program:
 
 ```sh
-python /Users/alisina/Documents/Projects/Others/instagramDownloader/main/program.py
+python {Path to your }/program.py
 ```
 
 2. Follow the on-screen instructions to download posts from a specified Instagram account.
